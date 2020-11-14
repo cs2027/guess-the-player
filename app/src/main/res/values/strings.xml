@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GuessThePlayer</string>
+
+    <!-- 'GameSetupActivity' Strings -->
+    <string name="points_header"><u>Points</u></string>
+    <string name="assists_header"><u>Assists</u></string>
+    <string name="rebounds_header"><u>Rebounds</u></string>
+    <string name="num_questions"><u>Number of Quiz Questions</u></string>
+
+    <!-- 'GameActivity' Strings -->
+    <string name="statline_header"><u>Statline</u></string>
+
+
+
+</resources>

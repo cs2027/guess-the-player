@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Common colors used throughout the app -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="theme">#C2D6F1</color>
+
+    <!-- Colors specific to team with ID number 1 (i.e. the Atlanta Hawks) -->
+    <color name="top_1">#FFFFFF</color>
+    <color name="bottom_1">#CC092F</color>
+
+    <!-- Colors specific to team with ID number 2 (i.e. the Boston Celtics) -->
+    <color name="top_2">#FFFFFF</color>
+    <color name="bottom_2">#008853</color>
+
+    <!-- Colors specific to team with ID number 3 (i.e. the Brooklyn Nets) -->
+    <color name="top_3">#FFFFFF</color>
+    <color name="bottom_3">#000000</color>
+
+    <!-- etc. -->
+    <color name="top_4">#1D0C65</color>
+    <color name="bottom_4">#1D8CAB</color>
+
+    <color name="top_5">#FFFFFF</color>
+    <color name="bottom_5">#BC032B</color>
+
+    <color name="top_6">#FDBB30</color>
+    <color name="bottom_6">#860038</color>
+
+    <color name="top_7">#C4CED4</color>
+    <color name="bottom_7">#1061AC</color>
+
+    <color name="top_8">#FDB827</color>
+    <color name="bottom_8">#002D62</color>
+
+    <color name="top_9">#ED174C</color>
+    <color name="bottom_9">#002D62</color>
+
+    <color name="top_10">#FDB927</color>
+    <color name="bottom_10">#006BB6</color>
+
+    <color name="top_11">#FFFFFF</color>
+    <color name="bottom_11">#D31145</color>
+
+    <color name="top_12">#002D62</color>
+    <color name="bottom_12">#FFC526</color>
+
+    <color name="top_13">#FFFFFF</color>
+    <color name="bottom_13">#0061A1</color>
+
+    <color name="top_14">#FDB827</color>
+    <color name="bottom_14">#542583</color>
+
+    <color name="top_15">#FFFFFF</color>
+    <color name="bottom_15">#23375B</color>
+
+    <color name="top_16">#FFFFFF</color>
+    <color name="bottom_16">#BF2F38</color>
+
+    <color name="top_17">#EFEBD2</color>
+    <color name="bottom_17">#00461B</color>
+
+    <color name="top_18">#0EA94E</color>
+    <color name="bottom_18">#005183</color>
+
+    <color name="top_19">#B5985A</color>
+    <color name="bottom_19">#002A5C</color>
+
+    <color name="top_20">#046AB4</color>
+    <color name="bottom_20">#F48328</color>
+
+    <color name="top_21">#0A7EC2</color>
+    <color name="bottom_21">#F05333</color>
+
+    <color name="top_22">#C6CDD3</color>
+    <color name="bottom_22">#0075BD</color>
+
+    <color name="top_23">#D50032</color>
+    <color name="bottom_23">#003DA5</color>
+
+    <color name="top_24">#FAA120</color>
+    <color name="bottom_24">#27235C</color>
+
+    <color name="top_25">#E13A3E</color>
+    <color name="bottom_25">#000000</color>
+
+    <color name="top_26">#FFFFFF</color>
+    <color name="bottom_26">#724C9F</color>
+
+    <color name="top_27">#FFFFFF</color>
+    <color name="bottom_27">#000000</color>
+
+    <color name="top_28">#A8A9AB</color>
+    <color name="bottom_28">#BE0F34</color>
+
+    <color name="top_29">#F9A01B</color>
+    <color name="bottom_29">#00471B</color>
+
+    <color name="top_30">#FFFFFF</color>
+    <color name="bottom_30">#E51837</color>
+</resources>
