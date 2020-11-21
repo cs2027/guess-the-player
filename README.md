@@ -12,7 +12,6 @@ team the player belongs to (ex. The Portland Trailblazers).
 Moreover, there are some other miscellaneous UI features as well. For instance, on the initial loading screen and the final screen displayed after the game, we automatically load 
 one of ten randomly generated NBA-related images, featuring various NBA legends and iconic momements, including Magic Johnson, Larry Bird, Michael Jordan, Kobe Bryant, and many, many
 more. Additionally, following each quiz question, we load an image screen customized by the team colors and team logo of the player from the previous question. So for example, if
-the correct answer to question #3 was "Lebron James" (who players for the Los Angeles Lakers), between questions 3 and 4, we would have the screen display the Lakers' team colors 
-- purple and gold - as well as the famous LA Laker's logo. Features like these are intended to make the game more engaging and enhance the quiz experience for the user. 
+the correct answer to question #3 was "Lebron James" (who players for the Los Angeles Lakers), between questions 3 and 4, we would have the screen display the Lakers' team colors, purple and gold, as well as the famous LA Laker's logo. Features like these are intended to make the game more engaging and enhance the quiz experience for the user. 
 
 
