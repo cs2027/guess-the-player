@@ -1,7 +1,7 @@
 # GuessThePlayer
 
 ## Description
-GuessThePlayer is an Android application in Java that parses JSON data from an external API to generate personalized NBA quizzes. Before starting the quiz, the user can enter custom quiz 
+GuessThePlayer is an Android application in Java that parses JSON data from an external API (Link: www.balldontlie.io) to generate personalized NBA quizzes. Before starting the quiz, the user can enter custom quiz
 parameters to personalize the quiz to his/her own liking. In particular, the user can limit the quiz to players that averaged between `x` and `y` points, `x` and `y` assists
 or `x` and `y` rebounds, as well as the length of the quiz. So for instance, the user could load a 15-question quiz limited to players that averaged between 20 and 30 points, 6 and
 10 assists, or 12 and 15 rebounds, and they would only be quizzed on players specifying those parameters. The quiz works by providing a player's statline from the 2019-2020 regular
